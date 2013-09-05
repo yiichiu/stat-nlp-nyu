@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Yi-I
+   last: Chiu
+email: yic211@nyu.edu
+leaderboard: YiIChiu
