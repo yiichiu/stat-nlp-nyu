@@ -301,6 +301,18 @@ GOLD:	AM: -2.13E03	LM: -8.88E01	Total: -2.22E03	[yesterday, many, corn, futures,
 GUESS:	AM: -9.69E02	LM: -1.61E01	Total: -9.85E02	[he, could, n't, be, reached, for, comment]
 GOLD:	AM: -9.67E02	LM: -1.93E01	Total: -9.86E02	[she, could, n't, be, reached, for, comment]
 
+GUESS:	AM: -3.67E03	LM: -7.60E01	Total: -3.75E03	[the, purchasing, managers, ', index, in, october, rose, to, fifty, six, point, eight, percent, from, fifty, four, point, eight, percent, in, september]
+GOLD:	AM: -3.67E03	LM: -7.60E01	Total: -3.75E03	[the, purchasing, managers, ', index, in, october, rose, to, fifty, six, point, eight, percent, from, fifty, four, point, eight, percent, in, september]
+
+GUESS:	AM: -2.65E03	LM: -1.28E02	Total: -2.77E03	[the, soviets, for, example, are, having, difficulty, shipping, s., oil, through, their, normal, want, reports, traders, said, in]
+GOLD:	AM: -2.65E03	LM: -1.30E02	Total: -2.78E03	[the, soviets, for, example, are, having, difficulty, shipping, gas, oil, through, their, normal, winter, ports, traders, said]
+
+GUESS:	AM: -2.13E03	LM: -8.29E01	Total: -2.21E03	[yesterday, many, corn, futures, prices, plunged, by, the, permissible, daily, limits]
+GOLD:	AM: -2.13E03	LM: -8.88E01	Total: -2.22E03	[yesterday, many, corn, futures, prices, plunged, by, their, permissible, daily, limits]
+
+GUESS:	AM: -9.69E02	LM: -1.61E01	Total: -9.85E02	[he, could, n't, be, reached, for, comment]
+GOLD:	AM: -9.67E02	LM: -1.93E01	Total: -9.86E02	[she, could, n't, be, reached, for, comment]
+
 GUESS:	AM: -3.44E03	LM: -1.31E02	Total: -3.57E03	[a, spokesman, for, olympia, and, york, said, it, has, n't, any, plans, to, increase, its, campeau, stake, fallen, that, debenture, purchase]
 GOLD:	AM: -3.45E03	LM: -1.26E02	Total: -3.57E03	[a, spokesman, for, olympia, and, york, said, it, has, n't, any, plans, to, increase, its, campeau, stake, following, the, debenture, purchase]
 
