@@ -301,6 +301,60 @@ GOLD:	AM: -2.13E03	LM: -8.88E01	Total: -2.22E03	[yesterday, many, corn, futures,
 GUESS:	AM: -9.69E02	LM: -1.61E01	Total: -9.85E02	[he, could, n't, be, reached, for, comment]
 GOLD:	AM: -9.67E02	LM: -1.93E01	Total: -9.86E02	[she, could, n't, be, reached, for, comment]
 
+GUESS:	AM: -3.44E03	LM: -1.31E02	Total: -3.57E03	[a, spokesman, for, olympia, and, york, said, it, has, n't, any, plans, to, increase, its, campeau, stake, fallen, that, debenture, purchase]
+GOLD:	AM: -3.45E03	LM: -1.26E02	Total: -3.57E03	[a, spokesman, for, olympia, and, york, said, it, has, n't, any, plans, to, increase, its, campeau, stake, following, the, debenture, purchase]
+
+GUESS:	AM: -1.35E03	LM: -4.08E01	Total: -1.40E03	[for, just, an, investor, in, campeau]
+GOLD:	AM: -1.35E03	LM: -4.12E01	Total: -1.40E03	[we, 're, just, an, investor, in, campeau]
+
+GUESS:	AM: -3.32E03	LM: -1.13E02	Total: -3.43E03	[the, federated, acquisition, created, an, opportunity, for, olympia, and, york, to, increase, its, ownership, the, spokesman, said]
+GOLD:	AM: -3.32E03	LM: -1.13E02	Total: -3.43E03	[the, federated, acquisition, created, an, opportunity, for, olympia, and, york, to, increase, its, ownership, the, spokesman, said]
+
+GUESS:	AM: -1.55E03	LM: -5.35E01	Total: -1.61E03	[the, stations, signs, are, indeed, in, english]
+GOLD:	AM: -1.55E03	LM: -5.47E01	Total: -1.61E03	[the, station, signs, are, indeed, in, english]
+
+GUESS:	AM: -2.38E03	LM: -8.70E01	Total: -2.46E03	[the, federal, reserve, 's, policy, committee, met, yesterday, and, tuesday, to, outline, strategy]
+GOLD:	AM: -2.38E03	LM: -8.70E01	Total: -2.46E03	[the, federal, reserve, 's, policy, committee, met, yesterday, and, tuesday, to, outline, strategy]
+
+GUESS:	AM: -1.68E03	LM: -3.19E01	Total: -1.72E03	[a, fed, spokesman, declined, to, comment, as, usual]
+GOLD:	AM: -1.68E03	LM: -3.19E01	Total: -1.72E03	[a, fed, spokesman, declined, to, comment, as, usual]
+
+GUESS:	AM: -3.97E03	LM: -1.23E02	Total: -4.09E03	[fed, chairman, alan, greenspan, is, scheduled, to, give, his, midyear, economic, report, at, a, house, banking, committee, hearing, on, february, twenty, third]
+GOLD:	AM: -3.97E03	LM: -1.23E02	Total: -4.09E03	[fed, chairman, alan, greenspan, is, scheduled, to, give, his, midyear, economic, report, at, a, house, banking, committee, hearing, on, february, twenty, third]
+
+GUESS:	AM: -2.23E03	LM: -7.81E01	Total: -2.30E03	[an, additional, nineteen, percent, blamed, lack, of, any, benefits, communication, plan]
+GOLD:	AM: -2.23E03	LM: -7.81E01	Total: -2.30E03	[an, additional, nineteen, percent, blamed, lack, of, any, benefits, communication, plan]
+
+GUESS:	AM: -2.76E03	LM: -1.07E02	Total: -2.87E03	[fully, forty, three, percent, felt, that, communication, programs, do, n't, work, or, are, n't, sure, that, they, do]
+GOLD:	AM: -2.76E03	LM: -1.13E02	Total: -2.87E03	[fully, forty, three, percent, felt, their, communication, programs, do, n't, work, or, are, n't, sure, that, they, do]
+
+GUESS:	AM: -2.57E03	LM: -9.24E01	Total: -2.66E03	[some, calm, the, return, to, world, oil, markets, after, last, week, 's, stormy, trading]
+GOLD:	AM: -2.57E03	LM: -9.93E01	Total: -2.67E03	[some, calm, may, return, to, world, oil, markets, after, last, week, 's, stormy, trading]
+
+GUESS:	AM: -2.12E03	LM: -7.38E01	Total: -2.19E03	[but, many, oil, analyst, said, market, fundamentals, remain, bearish]
+GOLD:	AM: -2.12E03	LM: -7.57E01	Total: -2.20E03	[but, many, oil, analysts, said, market, fundamentals, remain, bearish]
+
+GUESS:	AM: -3.57E03	LM: -1.33E02	Total: -3.71E03	[the, price, committee, for, the, organization, of, petroleum, exporting, countries, meets, next, sunday, in, some, said, that, should, spur, another, rally]
+GOLD:	AM: -3.57E03	LM: -1.34E02	Total: -3.71E03	[the, price, committee, for, the, organization, of, petroleum, exporting, countries, meets, next, sunday, and, some, said, that, should, spur, another, rally]
+
+GUESS:	AM: -2.91E03	LM: -9.16E01	Total: -3.00E03	[a, supporting, factor, in, the, market, was, the, latest, monthly, survey, by, the, national, association, of, purchasing, management]
+GOLD:	AM: -2.91E03	LM: -9.16E01	Total: -3.00E03	[a, supporting, factor, in, the, market, was, the, latest, monthly, survey, by, the, national, association, of, purchasing, management]
+
+GUESS:	AM: -2.67E03	LM: -1.01E02	Total: -2.77E03	[the, survey, indicated, that, the, economy, expanded, briskly, in, october, reversing, a, three, month, decline]
+GOLD:	AM: -2.67E03	LM: -1.01E02	Total: -2.77E03	[the, survey, indicated, that, the, economy, expanded, briskly, in, october, reversing, a, three, month, decline]
+
+GUESS:	AM: -3.67E03	LM: -7.60E01	Total: -3.75E03	[the, purchasing, managers, ', index, in, october, rose, to, fifty, six, point, eight, percent, from, fifty, four, point, eight, percent, in, september]
+GOLD:	AM: -3.67E03	LM: -7.60E01	Total: -3.75E03	[the, purchasing, managers, ', index, in, october, rose, to, fifty, six, point, eight, percent, from, fifty, four, point, eight, percent, in, september]
+
+GUESS:	AM: -2.65E03	LM: -1.28E02	Total: -2.77E03	[the, soviets, for, example, are, having, difficulty, shipping, s., oil, through, their, normal, want, reports, traders, said, in]
+GOLD:	AM: -2.65E03	LM: -1.30E02	Total: -2.78E03	[the, soviets, for, example, are, having, difficulty, shipping, gas, oil, through, their, normal, winter, ports, traders, said]
+
+GUESS:	AM: -2.13E03	LM: -8.29E01	Total: -2.21E03	[yesterday, many, corn, futures, prices, plunged, by, the, permissible, daily, limits]
+GOLD:	AM: -2.13E03	LM: -8.88E01	Total: -2.22E03	[yesterday, many, corn, futures, prices, plunged, by, their, permissible, daily, limits]
+
+GUESS:	AM: -9.69E02	LM: -1.61E01	Total: -9.85E02	[he, could, n't, be, reached, for, comment]
+GOLD:	AM: -9.67E02	LM: -1.93E01	Total: -9.86E02	[she, could, n't, be, reached, for, comment]
+
 GUESS:	AM: -2.18E03	LM: -8.35E01	Total: -2.26E03	[when, the, subordinate, bad, mouths, he, has, n't, earned, that, right]
 GOLD:	AM: -2.18E03	LM: -8.35E01	Total: -2.26E03	[when, the, subordinate, bad, mouths, he, has, n't, earned, that, right]
 
