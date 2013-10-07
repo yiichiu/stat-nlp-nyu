@@ -7,7 +7,7 @@ attracted	VBN
 by	IN
 a	DT
 simple	JJ
-interface	NNS
+interface	NN
 are	VBP
 among	IN
 the	DT
@@ -8353,7 +8353,7 @@ to	IN
 Iraq	NNP
 is	VBZ
 definitely	RB
-sus	JJ
+sus	NN
 .	.
 
 I	PRP
@@ -10472,7 +10472,7 @@ to	TO
 cease	VB
 militarily	RB
 unnecessary	JJ
-provocations	NN
+provocations	NNS
 and	CC
 establish	VB
 genuine	JJ
@@ -13207,7 +13207,7 @@ has	VBZ
 spread	VBN
 throughout	IN
 the	DT
-Muslim	NN
+Muslim	NNP
 world	NN
 ,	,
 including	VBG
@@ -13218,7 +13218,7 @@ The	DT
 promotion	NN
 by	IN
 the	DT
-pro-Zionist	NN
+pro-Zionist	JJ
 right	NN
 of	IN
 twin	JJ
@@ -15082,7 +15082,7 @@ look	VB
 up	RP
 Carter	NNP
 's	POS
-Tabas	NNP
+Tabas	NN
 operation	NN
 .	.
 
@@ -19016,7 +19016,7 @@ too	RB
 much	RB
 of	IN
 the	DT
-ARVN	NN
+ARVN	NNP
 officers	NNS
 who	WP
 were	VBD
